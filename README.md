@@ -7,5 +7,5 @@ PROJECT 1:Investigeting guest movies with Guest Stars in the Office
 Skills practised 
 - Data manipulation and creating data frame with pandas and data visualisation (line and scatter plots) with matplotlib
 - Data subsetting
-Take a look at the project 
+Take a look my the project here https://github.com/bernadettemm/datacamp-projects/blob/master/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/notebook.ipynb 
 
